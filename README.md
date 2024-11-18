@@ -5,7 +5,7 @@ Allow the user to input a string (max 20 characters) and then proceed to reverse
 and lastly get the middle characters of the string. If the string is odd, it will return 1 obvious middle character, if the string is of even length,
 it will return the two middle characters as there is no singular middle character when the string length is even. 
 ________________________________________________________________________________
-Instructions for user:
+Instruction for user:
 
 First input -> String (max 20 characters)
 ________________________________________________________________________________
